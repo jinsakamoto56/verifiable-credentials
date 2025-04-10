@@ -6,7 +6,6 @@ A TypeScript-based system for issuing and verifying verifiable credentials.
 
 - Issue verifiable credentials
 - Verify credentials
-- RESTful API endpoints
 - Modern web interface
 - TypeScript support
 
